@@ -24,9 +24,9 @@ Also available for download from [bandowando's Kaggle site.](https://kaggle.com/
 
 The linked wordlists/resources are intended for research and educational purposes ONLY. 
 Use of RockYou2024.txt is at your own risk, and any user thereof assumes responsibility
-for any damage resulting from use or misuse of same, and is expected to perform
-for performing due diligence before, during, and after accessing, opening, utilizing, contemplating,
-or otherwise interacting with, in any capacity, the provided link and/or associated data.
+for any damage resulting from use or misuse of same, and is expected to perform due diligence before, 
+during, and after accessing, opening, utilizing, contemplating, or otherwise interacting with, 
+in any capacity, the provided links and/or associated data.
 
 Unauthorized access of any system, network, or information, in whole or in part, 
 regardless of intent, or such access deemed in excess of prior authorization, is expressly prohibited by law.
