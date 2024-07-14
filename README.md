@@ -12,6 +12,7 @@ Rockyou2024.txt is available via the following magnet (requires torrent client):
 
 **rockyou2024.zip** (~50 GB) <br>
     d3380267907a7aa7b6161010632add84ad6f25387915771a9c1f111932a20a19<br>
+    
 **rockyou2024.txt** (~160 GB) <br>
     457361a871f111014573ab3bda3e0f5dafd489a3217b62fc8cfb14c74d59bb11
 
